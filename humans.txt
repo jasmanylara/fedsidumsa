@@ -1,0 +1,45 @@
+/* TEAM */
+
+                            
+Cargo: Desarrollador Web Front-End.
+
+                            
+Site: E-mail
+
+                            
+Twitter: Jasmany Lara.
+
+                            
+Location: La Paz, Bolivia.
+
+                         
+                 
+                        [...]
+						
+
+							
+/* THANKS */
+
+							
+Name: Jasmany Milton Lara Huanca
+
+						
+                 
+                        [...]
+                        
+
+                            
+/* SITE */
+
+                            
+Last update: 2018/11/05 
+
+                            
+Standards: HTML5, CSS3. 
+
+                            
+Components: Bootstrap 4, Modernizr, jQuery, Font-Awesome, FlexBox.
+
+                            
+Software: Sublime Text 3.
+   
